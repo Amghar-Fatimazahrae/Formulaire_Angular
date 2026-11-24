@@ -1,0 +1,8 @@
+.card { max-width: 480px; margin: 32px auto; padding: 16px; }
+form { display: flex; flex-direction: column; margin-top: 16px; }
+mat-form-field { width: 100%; }
+.actions { display: flex; justify-content: center; margin: 8px 0 16px; }
+.success {
+  background: #22c373; color: #fff; padding: 16px; border-radius: 4px;
+  font-family: monospace; margin: 8px 0; white-space: pre-wrap;
+}
